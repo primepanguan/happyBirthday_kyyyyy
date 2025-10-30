@@ -1,5 +1,5 @@
-# 这是写给zky的一个生日快乐网站
-## 虽然你并不一定会看到，但是改写还得写
-如故有一天你看到了，那么至少是一段不错的证明，对你好感不错，可惜时间不对
+# This is a birthday website for zky
+## Although you may not necessarily see it, rewriting still needs to be done
+If you see it one day, then at least it's a decent proof of your likability, but unfortunately, the timing isn't right
 
-### 最后如果有人看到了这个，并且想要用，直接copy就好 
+### Finally, if anyone sees this and wants to use it, just copy it directly
